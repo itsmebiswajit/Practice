@@ -50,11 +50,18 @@ class Main {
         return new String(ch);
     }
     
+    //USING RECURSION
+    public static String reverse5(String s, int n){
+        if(n==0) return Character.toString(s.charAt(0));
+        return "" + s.charAt(n) + reverse5(s, n-1);    
+    }
+    
     
     
     public static void main(String[] args) {
         String s="Biswajit Ghosh";
-        System.out.print(reverse4(s));
+        int n=s.length();
+        System.out.print(reverse5(s, n-1));
         
     }
 }
