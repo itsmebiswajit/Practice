@@ -1,0 +1,54 @@
+Recursion Roadmap (Easy → Hard)
+
+
+
+
+Easy
+
+Factorial
+Fibonacci number
+Sum of digits
+Reverse string
+Palindrome check
+Power a
+b
+Print 1 to N
+Print N to 1
+Sum of array
+Max in array
+Binary search recursion
+
+
+
+
+Medium
+
+Sort array using recursion
+Sort stack using recursion
+Delete middle of stack
+Reverse stack
+Tower of Hanoi
+Generate subsequences
+Generate subsets
+Permutations with spaces
+Letter case permutation
+Balanced parentheses
+N-bit binary numbers
+
+
+
+
+Hard
+
+Josephus Problem
+K-th Symbol in Grammar
+Rat in a Maze
+Sudoku Solver
+N-Queens
+Word Search
+Generate permutations
+Combination Sum
+M-Coloring Problem
+Knight’s Tour
+
+After these → start DP.
